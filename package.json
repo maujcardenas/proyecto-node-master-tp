@@ -4,12 +4,16 @@
   "description": "Aplicación para interactuar con una base de datos sobre los cursos del Master en Full Stack WD de Three Points",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "Mauricio Cárdenas",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
     "mongoose": "^6.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
   }
 }
