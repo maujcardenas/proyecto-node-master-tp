@@ -1,0 +1,1 @@
+Este es solamente un txt con el que voy aprendiendo Git y GitHub
