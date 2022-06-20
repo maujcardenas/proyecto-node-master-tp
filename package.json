@@ -4,7 +4,7 @@
   "description": "Aplicación para interactuar con una base de datos sobre los cursos del Master en Full Stack WD de Three Points",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Mauricio Cárdenas",
   "license": "ISC",
